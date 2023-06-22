@@ -111,9 +111,10 @@ body {
     color: var(--bg-white);
 }
 
-footer {
+footer,
+footer a {
     text-align: center;
-    font-size: 32px;
+    font-size: 18px;
 }
 
 @media(max-width: 768px) {
